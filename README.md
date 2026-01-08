@@ -1,0 +1,1 @@
+Uses an external API called Bridges to import random Shakespearean works. Using list comprehension and the sorting mechanisms in python, this code displays every unique word and its frequency in the text.
